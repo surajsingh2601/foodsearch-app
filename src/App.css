@@ -13,6 +13,17 @@
   }
 }
 
+/* .Nav {
+  margin-left: 90px;
+  margin-right: 60px;
+} */
+
+.Logo {
+  background-color: #61dafb;
+  border-radius: 25px;
+  padding-left:  10px;
+  padding-right: 10px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
